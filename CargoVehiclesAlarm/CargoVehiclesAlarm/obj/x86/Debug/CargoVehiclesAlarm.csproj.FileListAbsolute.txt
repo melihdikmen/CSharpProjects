@@ -1,0 +1,5 @@
+c:\users\melih\documents\visual studio 2010\Projects\CargoVehiclesAlarm\CargoVehiclesAlarm\bin\Debug\CargoVehiclesAlarm.exe
+c:\users\melih\documents\visual studio 2010\Projects\CargoVehiclesAlarm\CargoVehiclesAlarm\bin\Debug\CargoVehiclesAlarm.pdb
+c:\users\melih\documents\visual studio 2010\Projects\CargoVehiclesAlarm\CargoVehiclesAlarm\obj\x86\Debug\CargoVehiclesAlarm.exe
+c:\users\melih\documents\visual studio 2010\Projects\CargoVehiclesAlarm\CargoVehiclesAlarm\obj\x86\Debug\CargoVehiclesAlarm.pdb
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\CargoVehiclesAlarm\CargoVehiclesAlarm\obj\x86\Debug\CargoVehiclesAlarm.csprojResolveAssemblyReference.cache

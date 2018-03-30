@@ -1,0 +1,5 @@
+c:\users\melih\documents\visual studio 2010\Projects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+c:\users\melih\documents\visual studio 2010\Projects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+c:\users\melih\documents\visual studio 2010\Projects\ExceptionHandling\ExceptionHandling\obj\x86\Debug\ExceptionHandling.exe
+c:\users\melih\documents\visual studio 2010\Projects\ExceptionHandling\ExceptionHandling\obj\x86\Debug\ExceptionHandling.pdb
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\ExceptionHandling\ExceptionHandling\obj\x86\Debug\ExceptionHandling.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Melih\documents\visual studio 2010\Projects\Emlak\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Melih\documents\visual studio 2010\Projects\Emlak\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Melih\documents\visual studio 2010\Projects\Emlak\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Melih\documents\visual studio 2010\Projects\Emlak\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\Emlak\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache

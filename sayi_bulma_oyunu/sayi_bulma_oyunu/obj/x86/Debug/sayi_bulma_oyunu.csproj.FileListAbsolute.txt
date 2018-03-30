@@ -1,0 +1,9 @@
+c:\users\melih\documents\visual studio 2010\Projects\sayi_bulma_oyunu\sayi_bulma_oyunu\bin\Debug\sayi_bulma_oyunu.exe
+c:\users\melih\documents\visual studio 2010\Projects\sayi_bulma_oyunu\sayi_bulma_oyunu\bin\Debug\sayi_bulma_oyunu.pdb
+c:\users\melih\documents\visual studio 2010\Projects\sayi_bulma_oyunu\sayi_bulma_oyunu\obj\x86\Debug\sayi_bulma_oyunu.Form1.resources
+c:\users\melih\documents\visual studio 2010\Projects\sayi_bulma_oyunu\sayi_bulma_oyunu\obj\x86\Debug\sayi_bulma_oyunu.Properties.Resources.resources
+c:\users\melih\documents\visual studio 2010\Projects\sayi_bulma_oyunu\sayi_bulma_oyunu\obj\x86\Debug\sayi_bulma_oyunu.csproj.GenerateResource.Cache
+c:\users\melih\documents\visual studio 2010\Projects\sayi_bulma_oyunu\sayi_bulma_oyunu\obj\x86\Debug\sayi_bulma_oyunu.exe
+c:\users\melih\documents\visual studio 2010\Projects\sayi_bulma_oyunu\sayi_bulma_oyunu\obj\x86\Debug\sayi_bulma_oyunu.pdb
+C:\Users\Melih\documents\visual studio 2010\Projects\sayi_bulma_oyunu\sayi_bulma_oyunu\obj\x86\Debug\sayi_bulma_oyunu.csprojResolveAssemblyReference.cache
+C:\Users\Melih\documents\visual studio 2010\Projects\sayi_bulma_oyunu\sayi_bulma_oyunu\obj\x86\Debug\sayi_bulma_oyunu.skor.resources

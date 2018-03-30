@@ -1,0 +1,15 @@
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\Emlak\EmlakArayüz\bin\Debug\EmlakArayüz.exe
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\Emlak\EmlakArayüz\bin\Debug\EmlakArayüz.pdb
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\Emlak\EmlakArayüz\obj\x86\Debug\EmlakArayüz.Login.resources
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\Emlak\EmlakArayüz\obj\x86\Debug\EmlakArayüz.Properties.Resources.resources
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\Emlak\EmlakArayüz\obj\x86\Debug\EmlakArayüz.csproj.GenerateResource.Cache
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\Emlak\EmlakArayüz\obj\x86\Debug\EmlakArayüz.exe
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\Emlak\EmlakArayüz\obj\x86\Debug\EmlakArayüz.pdb
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\Emlak\EmlakArayüz\obj\x86\Debug\EmlakArayüz.AnaEkran.resources
+C:\Users\Melih\documents\visual studio 2010\Projects\Emlak\EmlakArayüz\obj\x86\Debug\EmlakArayüz.csprojResolveAssemblyReference.cache
+C:\Users\Melih\documents\visual studio 2010\Projects\Emlak\EmlakArayüz\obj\x86\Debug\EmlakArayüz.KayıtEkranı.resources
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\Emlak\EmlakArayüz\bin\Debug\ClassLibrary1.dll
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\Emlak\EmlakArayüz\bin\Debug\ClassLibrary1.pdb
+C:\Users\Melih\documents\visual studio 2010\Projects\Emlak\EmlakArayüz\obj\x86\Debug\EmlakArayüz.SorgulamaEkranı.resources
+C:\Users\Melih\documents\visual studio 2010\Projects\Emlak\EmlakArayüz\obj\x86\Debug\EmlakArayüz.ListelemeEkranı.resources
+C:\Users\Melih\documents\visual studio 2010\Projects\Emlak\EmlakArayüz\obj\x86\Debug\EmlakArayüz.DüzenlemeEkranı.resources

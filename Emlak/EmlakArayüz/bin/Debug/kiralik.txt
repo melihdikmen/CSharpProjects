@@ -1,0 +1,2 @@
+﻿
+Evin oda sayısı:3, kat:1, Semti:Arnavutköy, Alanı:123, Yapım Tarihi:26.11.2017,Aktif:True, Emlak  Numarası:74734, Kirası:600, Depozito:123, Tür:Bahçeli,Yaş:0  
